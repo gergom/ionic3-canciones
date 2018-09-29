@@ -18,13 +18,13 @@ export const CANCIONES = [
         reproduciendo: false
       },
       {
-        nombre: "Flaca",
+        nombre: "Sin Documentos",
         imagen: "assets/imgs/canciones/calamaro4.jpeg",
         audio: "assets/canciones/Andres-Calamaro-Sin-documentos.mp3",
         reproduciendo: false
       },
       {
-        nombre: "Flaca",
+        nombre: "Te Quiero Igual",
         imagen: "assets/imgs/canciones/calamaro5.jpeg",
         audio: "assets/canciones/Andres-Calamaro-Te-quiero-igual.mp3",
         reproduciendo: false
